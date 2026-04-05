@@ -36,12 +36,6 @@
 <h3 align="left">Tech Stack:</h3>
 
 <!-- Data Analyst -->
-<h3 align="left">Tech Stack:</h3>
-
-<!-- Data Analyst -->
-<h3 align="left">Tech Stack:</h3>
-
-<!-- Data Analyst -->
 <h4>📊 Data Analyst</h4>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
@@ -68,8 +62,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://n8n.io/images/n8n-logo.png" width="45" height="45"/>&nbsp;&nbsp;&nbsp;
 </p>
 
 <!-- Tools -->
