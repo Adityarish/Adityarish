@@ -185,18 +185,14 @@ AI-powered IT infrastructure platform with CMDB ingestion, a natural-language wh
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityarish&show_icons=true&theme=tokyonight&hide_border=true" alt="Aditya's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adityarish&theme=tokyonight&hide_border=true" alt="Aditya's Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adityarish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Aditya's GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Adityarish&theme=tokyonight&hide_border=true" alt="Aditya's Streak" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarish&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarish&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adityarish&theme=tokyonight&column=5&margin-w=15&margin-h=15&no-bg=true" alt="Trophies"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Adityarish&theme=tokyonight&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies"/>
 </div>
