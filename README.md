@@ -28,7 +28,7 @@
 I'm a Software Engineering student (B.E. Computer Science – Data Science, CGPA 9.22) with a strong backend and data-first mindset. I design scalable APIs, work across Python/SQL for data cleaning and analysis, and enjoy applying core CS fundamentals to build reliable, data-driven systems. I've shipped full-stack AI/ML products end-to-end and recently interned building a full-scale Electronics PLM system.
 
 - 🔭 **Currently building:** [InfraMind](https://github.com/Adityarish) — an AI-powered IT infrastructure management platform (n8n + Neo4j + FastAPI + ServiceNow)
-- 🌱 **Currently exploring:** Flutter, Agentic AI, and advanced DSA
+- 🌱 **Currently exploring:** Agentic AI, PowerBi and System Design
 - 👯 **Open to collaborating on:** AI-powered backend systems & real-time applications
 - ⚡ **Fun fact:** I count sheep to fall asleep — and then square them.
 
@@ -62,7 +62,7 @@ Fully offline, real-time transcription using faster-whisper, with a multi-thread
 
 `Python` `FastAPI` `Whisper` `Chrome Extension`
 
-[🔗 Repository](https://github.com/Adityarish)
+[🔗 Repository](https://github.com/Adityarish/YapYap)
 
 </td>
 </tr>
@@ -74,7 +74,7 @@ Retrieval-Augmented Generation system for Q&A over custom documents — semantic
 
 `Python` `Flask` `FAISS` `NLP`
 
-[🔗 Repository](https://github.com/Adityarish)
+[🔗 Repository](https://github.com/Adityarish/RAG)
 
 </td>
 <td width="50%">
@@ -188,11 +188,9 @@ AI-powered IT infrastructure platform with CMDB ingestion, a natural-language wh
   <img src="https://github-readme-stats.vercel.app/api?username=Adityarish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Aditya's GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com?user=Adityarish&theme=tokyonight&hide_border=true" alt="Aditya's Streak" height="165"/>
 </div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarish&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 </div>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adityarish&theme=tokyonight&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="Trophies"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adityarish&theme=onedark&column=5&margin-w=15&margin-h=15" alt="trophy"/></a>
 </div>
