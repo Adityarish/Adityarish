@@ -11,13 +11,19 @@
   <a href="https://instagram.com/__adit_18_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://kaggle.com/aditya21824" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
   <a href="https://leetcode.com/seemeadit21824" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.hackerrank.com/seemeadit21824" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
   <a href="https://auth.geeksforgeeks.org/user/seemeadi2ni9" target="_blank"><img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/adityasingh218" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+   <a href="https://www.hackerrank.com/seemeadit21824" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
   <a href="https://linkedin.com/in/aditya-kumar-6a436535b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="./resume/Backend_int.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View_Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Adityarish">
+    <img src="https://img.shields.io/github/followers/Adityarish?label=Follow%20Me&style=for-the-badge&color=2b3137&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Adityarish&label=Profile%20Views&color=2b3137&style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -153,8 +159,8 @@ AI-powered IT infrastructure platform with CMDB ingestion, a natural-language wh
 <summary><h3>🥇 Hackathon Wins</h3></summary>
   <div align="center">
     <!-- Replace src below with your own image path once uploaded, e.g. ./assets/achievements/code-battle.png -->
-    <img src="./assets/hackathons/code-battle-2k25.jpeg" width="220" alt="2nd Prize - Code Battle 2k25"/>
-    <img src="./assets/hackathons/code-breaker-2.0.jpeg" width="220" alt="3rd Prize - Code Breaker Challenge 2.0"/>
+    <img src="./assets/hackathons/code-battle-2k25.jpeg" width="220" style="transform: rotate(-90deg);" alt="2nd Prize - Code Battle 2k25"/>
+    <img src="./assets/hackathons/code-breaker-2.0.jpeg" width="220" style="transform: rotate(-90deg);" alt="3rd Prize - Code Breaker Challenge 2.0"/>
   </div>
   <p align="center">
     🥈 <b>2nd Prize — Code Battle 2k25</b> (National Hackathon, VDRIT × IEEE, March 2025)<br/>
@@ -184,8 +190,8 @@ AI-powered IT infrastructure platform with CMDB ingestion, a natural-language wh
     <img src="./assets/More_Certifications/IEEE_internship.jpg" width="220" alt="IEEE Computer Society Internship Completion"/>
   </div>
   <p align="center">
-    <b>Appreciation Certificate — QuantumX-25</b>, Volunteer of Founders Forum — New Horizon College of Engineering, Apr 2025<br/>
-    <b>Certificate of Internship Completion</b> — IEEE Computer Society Bangalore Chapter, IAMPro'25 (6-month program, Apr–Sep 2025)
+    <b>Appreciation Certificate — QuantumX-25</b> Apr 2025<br/>
+    <b>Certificate of Internship Completion</b> — IAMPro'25 (6-month program, Apr–Sep 2025)
   </p>
 </details>
 
@@ -194,12 +200,6 @@ AI-powered IT infrastructure platform with CMDB ingestion, a natural-language wh
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adityarish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Aditya's GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com?user=Adityarish&theme=tokyonight&hide_border=true" alt="Aditya's Streak" height="165"/>
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityarish&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
-</div>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Adityarish&theme=onedark&column=5&margin-w=15&margin-h=15" alt="trophy"/></a>
-</div>
+
