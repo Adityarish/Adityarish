@@ -15,6 +15,9 @@
   <a href="https://auth.geeksforgeeks.org/user/seemeadi2ni9" target="_blank"><img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/adityasingh218" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
   <a href="https://linkedin.com/in/aditya-kumar-6a436535b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="./resume/Backend_int.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View_Resume-FF5722?style=for-the-badge&logo=readdotcv&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
@@ -150,8 +153,8 @@ AI-powered IT infrastructure platform with CMDB ingestion, a natural-language wh
 <summary><h3>🥇 Hackathon Wins</h3></summary>
   <div align="center">
     <!-- Replace src below with your own image path once uploaded, e.g. ./assets/achievements/code-battle.png -->
-    <img src="./assets/hackathons/CodeBattle.jpeg" width="220" alt="2nd Prize - Code Battle 2k25"/>
-    <img src="./assets/hackathons/Codebreaker.jpeg" width="220" alt="3rd Prize - Code Breaker Challenge 2.0"/>
+    <img src="./assets/hackathons/code-battle-2k25.jpeg" width="220" alt="2nd Prize - Code Battle 2k25"/>
+    <img src="./assets/hackathons/code-breaker-2.0.jpeg" width="220" alt="3rd Prize - Code Breaker Challenge 2.0"/>
   </div>
   <p align="center">
     🥈 <b>2nd Prize — Code Battle 2k25</b> (National Hackathon, VDRIT × IEEE, March 2025)<br/>
@@ -170,15 +173,20 @@ AI-powered IT infrastructure platform with CMDB ingestion, a natural-language wh
   <p align="center">
     <b>The Complete Python Pro Bootcamp</b> — Udemy<br/>
     <b>Mastering Data Structures and Algorithms using C/C++</b> — Udemy
+    <b>The Complete Full Stack Web Developer Bootcamp</b> - Udemy
   </p>
 </details>
 
 <details>
 <summary><h3>🗂 More Certificates & Diplomas</h3></summary>
-  <div align="center">
-    <!-- Add more placeholders here as you send over additional achievements -->
-    <img src="https://placehold.co/220x150?text=Add+Certificate" width="220" alt="placeholder"/>
+   <div align="center">
+    <img src="./assets/More_Certifications/Founders_Forum.jpg" width="220" alt="QuantumX-25 Appreciation Certificate"/>
+    <img src="./assets/More_Certifications/IEEE_internship.jpg" width="220" alt="IEEE Computer Society Internship Completion"/>
   </div>
+  <p align="center">
+    <b>Appreciation Certificate — QuantumX-25</b>, Volunteer of Founders Forum — New Horizon College of Engineering, Apr 2025<br/>
+    <b>Certificate of Internship Completion</b> — IEEE Computer Society Bangalore Chapter, IAMPro'25 (6-month program, Apr–Sep 2025)
+  </p>
 </details>
 
 ---
