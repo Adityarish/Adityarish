@@ -159,8 +159,8 @@ AI-powered IT infrastructure platform with CMDB ingestion, a natural-language wh
 <summary><h3>🥇 Hackathon Wins</h3></summary>
   <div align="center">
     <!-- Replace src below with your own image path once uploaded, e.g. ./assets/achievements/code-battle.png -->
-    <img src="./assets/hackathons/code-battle-2k25.jpeg" width="220" style="transform: rotate(-90deg);" alt="2nd Prize - Code Battle 2k25"/>
-    <img src="./assets/hackathons/code-breaker-2.0.jpeg" width="220" style="transform: rotate(-90deg);" alt="3rd Prize - Code Breaker Challenge 2.0"/>
+    <img src="./assets/hackathons/code-battle-2k25.jpeg" width="220" alt="2nd Prize - Code Battle 2k25"/>
+    <img src="./assets/hackathons/code-breaker-2.0.jpeg" width="220" alt="3rd Prize - Code Breaker Challenge 2.0"/>
   </div>
   <p align="center">
     🥈 <b>2nd Prize — Code Battle 2k25</b> (National Hackathon, VDRIT × IEEE, March 2025)<br/>
