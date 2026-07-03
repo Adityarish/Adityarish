@@ -150,8 +150,8 @@ AI-powered IT infrastructure platform with CMDB ingestion, a natural-language wh
 <summary><h3>🥇 Hackathon Wins</h3></summary>
   <div align="center">
     <!-- Replace src below with your own image path once uploaded, e.g. ./assets/achievements/code-battle.png -->
-    <img src="https://placehold.co/220x150?text=Code+Battle+2k25" width="220" alt="2nd Prize - Code Battle 2k25"/>
-    <img src="https://placehold.co/220x150?text=Code+Breaker+2.0" width="220" alt="3rd Prize - Code Breaker Challenge 2.0"/>
+    <img src="./assets/hackathon/CodeBattle.jpeg" width="220" alt="2nd Prize - Code Battle 2k25"/>
+    <img src="./assets/hackathon/Codebreaker.jpeg" width="220" alt="3rd Prize - Code Breaker Challenge 2.0"/>
   </div>
   <p align="center">
     🥈 <b>2nd Prize — Code Battle 2k25</b> (National Hackathon, VDRIT × IEEE, March 2025)<br/>
@@ -163,8 +163,10 @@ AI-powered IT infrastructure platform with CMDB ingestion, a natural-language wh
 <summary><h3>📜 Certifications</h3></summary>
   <div align="center">
     <!-- Replace src below with your own certificate image once uploaded -->
-    <img src="https://placehold.co/220x150?text=Python+Pro+Bootcamp" width="220" alt="The Complete Python Pro Bootcamp"/>
-    <img src="https://placehold.co/220x150?text=DSA+C%2FC%2B%2B" width="220" alt="Mastering DSA using C/C++"/>
+    <img src="./assets/certificates/Python.jpg
+    " width="220" alt="The Complete Python Pro Bootcamp"/>
+    <img src="./assets/certificates/c++.jpg" width="220" alt="Mastering DSA using C/C++"/>
+    <img src="./assets/certificates/web-d.jpg" width="220" alt="The Complete Full Stack Web Developer Bootcamp"/>
   </div>
   <p align="center">
     <b>The Complete Python Pro Bootcamp</b> — Udemy<br/>
