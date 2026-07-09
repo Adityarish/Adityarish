@@ -200,6 +200,6 @@ AI-powered IT infrastructure platform with CMDB ingestion, a natural-language wh
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Adityarish&theme=tokyonight&hide_border=true" alt="Aditya's Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Adityarish&theme=tokyonight&hide_border=true" alt="Aditya's Streak" height="175"/>
 </div>
 
