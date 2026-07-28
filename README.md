@@ -88,12 +88,12 @@ Retrieval-Augmented Generation system for Q&A over custom documents — semantic
 </td>
 <td width="50%">
 
-### 🧠 InfraMind — AI Infra Management *(in progress)*
-AI-powered IT infrastructure platform with CMDB ingestion, a natural-language what-if scenario simulator, and an AI CAB Co-Pilot for change management.
+### 🚀 Striver DSA-79 Solutions
+A comprehensive collection of optimized solutions for the **Striver DSA-79 Sheet**, implemented in **C++, Java, and Python**. The repository is organized topic-wise to help with interview preparation and strengthen Data Structures & Algorithms concepts.
 
-`n8n` `Neo4j` `Gemini` `GPT-4o` `FastAPI` `ServiceNow`
+`C++` `Java` `Python` `DSA` `Algorithms` `Interview Prep`
 
-[🔗 Repository](https://github.com/Adityarish)
+[🔗 Repository](https://github.com/Adityarish/Striver-79)
 
 </td>
 </tr>
