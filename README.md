@@ -52,52 +52,98 @@ Built a full-stack Electronics PLM system in React with database integration —
 
 ## 🚀 Featured Projects
 
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏋️ LockedIn — AI Fitness Platform
-Real-time posture correction using computer vision. Tracks 10+ body landmarks with MediaPipe for accurate rep counting, on a microservices architecture (React + Node.js + Python AI service).
+<h3>🏋️ LockedIn — AI Fitness Platform</h3>
 
-`Python` `OpenCV` `MediaPipe` `React` `Node.js`
+AI-powered fitness platform providing real-time posture correction, automatic repetition counting, and exercise tracking. Uses MediaPipe and OpenCV for body landmark detection, powered by a microservices architecture integrating React, Node.js, and Python.
 
-[🔗 Repository](https://github.com/ImAust1n/Locked.in.git)
+<p>
+<code>Python</code> <code>OpenCV</code> <code>MediaPipe</code> <code>React</code> <code>Node.js</code>
+</p>
+
+<a href="https://github.com/ImAust1n/Locked.in.git">🔗 Repository</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎙️ Yappy — Low-Latency Speech-to-Text
-Fully offline, real-time transcription using faster-whisper, with a multi-threaded pipeline for 16kHz audio and a Chrome Extension for injecting text into any input field.
+<h3>🗺️ JobAtlas — Smart Job Discovery Platform</h3>
 
-`Python` `FastAPI` `Whisper` `Chrome Extension`
+Full-stack job discovery platform that crawls Indian company career pages using Crawl4AI and Python. Features structured job extraction, interactive India map visualization, and advanced filters for location, domain, experience, fresher eligibility, and salary.
 
-[🔗 Repository](https://github.com/Adityarish/YapYap)
+<p>
+<code>Next.js</code> <code>Node.js</code> <code>MongoDB</code> <code>Python</code> <code>Crawl4AI</code> <code>Express.js</code>
+</p>
+
+<a href="https://github.com/Adityarish/CrawlAgent">🔗 Repository</a> |
+<a href="https://crawl-agent-2aye.vercel.app/">🚀 Live Demo</a>
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📄 Python RAG System
-Retrieval-Augmented Generation system for Q&A over custom documents — semantic search over 384-dim embeddings via FAISS, grounding LLM responses in retrieved context.
+<h3>🎙️ Yappy — Offline Speech-to-Text</h3>
 
-`Python` `Flask` `FAISS` `NLP`
+Privacy-focused, low-latency speech recognition system powered by faster-whisper. Processes 16kHz audio locally using an optimized transcription pipeline, with Chrome Extension integration to inject transcribed speech directly into website input fields.
 
-[🔗 Repository](https://github.com/Adityarish/RAG)
+<p>
+<code>Python</code> <code>FastAPI</code> <code>Whisper</code> <code>CTranslate2</code> <code>Chrome Extension</code>
+</p>
+
+<a href="https://github.com/Adityarish/YapYap">🔗 Repository</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚀 Striver DSA-79 Solutions
-A comprehensive collection of optimized solutions for the **Striver DSA-79 Sheet**, implemented in **C++, Java, and Python**. The repository is organized topic-wise to help with interview preparation and strengthen Data Structures & Algorithms concepts.
+<h3>📸 TripNest — Cloud Trip Media Organizer</h3>
 
-`C++` `Java` `Python` `DSA` `Algorithms` `Interview Prep`
+Private cloud-based platform for organizing trip photos, videos, and documents while preserving original quality. Integrates Google Drive for storage, Clerk for authentication, resumable uploads, personal trip folders, and an installable PWA with Chrome Extension support.
 
-[🔗 Repository](https://github.com/Adityarish/Striver-79)
+<p>
+<code>Next.js</code> <code>TypeScript</code> <code>Google Drive API</code> <code>Clerk</code> <code>PostgreSQL</code> <code>Prisma</code>
+</p>
+
+<a href="https://github.com/Adityarish/TripNest">🔗 Repository</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>📂 UseMe — Secure File & Text Sharing</h3>
+
+Secure file and text-sharing platform with customizable URLs, anonymous uploads, and optional authentication. Supports password-protected content, one-time viewing, configurable expiration, Google Drive storage, and owner-controlled file management.
+
+<p>
+<code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>PostgreSQL</code> <code>Google Drive API</code> <code>Drizzle ORM</code>
+</p>
+
+<a href="https://github.com/Adityarish/UseMe">🔗 Repository</a> |
+<a href="https://useme-delta.vercel.app/">🚀 Live Demo</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🧠 RAG — Document Intelligence System</h3>
+
+Retrieval-Augmented Generation system enabling intelligent question-answering over custom documents. Implements document chunking, 384-dimensional semantic embeddings, FAISS vector similarity search, and context-grounded LLM responses for accurate knowledge retrieval.
+
+<p>
+<code>Python</code> <code>Flask</code> <code>FAISS</code> <code>NLP</code> <code>Embeddings</code> <code>LLM</code>
+</p>
+
+<a href="https://github.com/Adityarish/RAG">🔗 Repository</a>
 
 </td>
 </tr>
 </table>
+
 
 ---
 
