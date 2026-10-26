@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  📫 <b>adityakumarnhce@gmail.com</b> &nbsp;|&nbsp; 🌐 <a href="https://adityakrportfolio.vercel.app/">Portfolio</a> &nbsp;|&nbsp; 📍 Bengaluru, India
+  📫 <b>adityakumarnhce@gmail.com</b> &nbsp;|&nbsp; 🌐 <a href="https://adityadev-one.vercel.app/">Portfolio</a> &nbsp;|&nbsp; 📍 Bengaluru, India
 </p>
 
 ---
